@@ -24,13 +24,13 @@
 
 ## Pin Connections 
 
-| Component | Pico GPIO Pin |
-| Push Button | GP15 |
-| Red LED | GP20 |  
-| Yellow LED | GP21 |
-| Blue LED | GP22 |
-| Green LED | GP16 |
-| White LED | GP17 |
+- | Component | Pico GPIO Pin |
+- | Push Button | GP15 |
+- | Red LED | GP20 |
+- | Yellow LED | GP21 |
+- | Blue LED | GP22 |
+- | Green LED | GP16 |
+- | White LED | GP17 |
 
 ## Files
 - 'main.py' - The code for the reaction time game
