@@ -1,5 +1,5 @@
 # F1 Reaction Time Game
-- A F1-inspired reaction time game
+- A F1-inspired reaction time game I made for my CS 390 Embedded Systems class
 - I built it using a Raspberry Pi Pico, MicroPython, 5 LEDs, and a push button
 - The goal is to press the button as fast as possible once all the lights turn off
 
